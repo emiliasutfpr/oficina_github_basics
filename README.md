@@ -31,3 +31,5 @@ Aprender a:
    git add .
    git commit -m "mensagem"
    git push
+
+Organizado pelo time de Oficinas do Emíli@s - Armação em Bits 
