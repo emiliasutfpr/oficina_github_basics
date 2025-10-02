@@ -32,7 +32,7 @@ Este arquivo será usado durante a oficina para praticar **commits, branches e p
 10. [ ] Nome do participante 10  
 11. [ ] Nome do participante 11  
 12. [ ] Nome do participante 12  
-13. [ ] Nome do participante 13  
+13. [x] Kaue Nadayoshi Icuta   
 14. [ ] Nome do participante 14  
 15. [ ] Nome do participante 15  
 16. [ ] Nome do participante 16  
