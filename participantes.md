@@ -25,7 +25,7 @@ Este arquivo será usado durante a oficina para praticar **commits, branches e p
 3. [ ] Nome do participante 3  
 4. [ ] Nome do participante 4  
 5. [ ] Nome do participante 5  
-6. [ ] Nome do participante 6  
+6. [X] João Lucas da Silva  
 7. [ ] Nome do participante 7  
 8. [ ] Nome do participante 8  
 9. [ ] Nome do participante 9  
